@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**ibrahimbkrr/ibrahimbkrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# İbrahim Bakar
 
-Here are some ideas to get you started:
+Test Automation focused Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Playwright (TypeScript) • Selenium (Java, TestNG) • Cucumber (BDD) • API Testing • C#/.NET
+
+## Projects
+- Playwright UI Automation
+- Selenium Test Automation
+- BDD Test Automation
+- API Testing
+
+## Contact
+LinkedIn: https://linkedin.com/in/your-linkedin
