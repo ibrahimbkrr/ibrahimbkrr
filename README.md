@@ -1,17 +1,15 @@
-## Hi there 👋
-
 # İbrahim Bakar
 
-Test Automation focused Software Engineer.
+Software Engineer focused on Test Automation.
 
 ## Tech Stack
 Playwright (TypeScript) • Selenium (Java, TestNG) • Cucumber (BDD) • API Testing • C#/.NET
 
 ## Projects
-- Playwright UI Automation
-- Selenium Test Automation
-- BDD Test Automation
+- UI Test Automation with Playwright
+- Selenium Test Automation Framework
+- BDD Test Automation (Cucumber)
 - API Testing
 
 ## Contact
-LinkedIn: www.linkedin.com/in/ibrahim-bakar-369464238
+LinkedIn: https://www.linkedin.com/in/ibrahim-bakar-369464238
