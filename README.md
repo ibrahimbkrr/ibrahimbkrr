@@ -14,4 +14,4 @@ Playwright (TypeScript) • Selenium (Java, TestNG) • Cucumber (BDD) • API T
 - API Testing
 
 ## Contact
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn: www.linkedin.com/in/ibrahim-bakar-369464238
