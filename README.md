@@ -4,7 +4,7 @@
 
 # İbrahim Bakar
 
-**Test otomasyonu odaklı Software Engineer**
+**Software Engineer**
 
 <p>
   <a href="https://github.com/ibrahimbkrr"><img src="https://img.shields.io/badge/GitHub-ibrahimbkrr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
