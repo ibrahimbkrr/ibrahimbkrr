@@ -1,76 +1,91 @@
+<!-- GitHub profili: ibrahimbkrr/ibrahimbkrr public repo köküne bu README.md dosyasını koyun. -->
+
 <div align="center">
 
 # İbrahim Bakar
 
-**Junior Automation Test Engineer**
+**Test otomasyonu odaklı Software Engineer**
 
 <p>
-  <a href="https://github.com/ibrahimbkrr">
-    <img src="https://img.shields.io/badge/GitHub-ibrahimbkrr-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/ibrahimbkrr"><img src="https://img.shields.io/badge/GitHub-ibrahimbkrr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## About Me
 
-- Test otomasyonu üzerine odaklanıyorum  
-- Web uygulamaları için **sürdürülebilir ve okunabilir testler** geliştiriyorum  
-- Sistemleri sadece test etmek değil, **davranışlarını anlamaya** çalışıyorum  
-- Paralelde **C# / .NET** ile backend ve API geliştirme üzerine çalışıyorum  
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TestNG-E33332?style=flat-square"/>
-  <img src="https://img.shields.io/badge/API%20Testing-6DB33F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+- Test otomasyonu üzerine odaklanıyorum; web uygulamaları için **sürdürülebilir ve okunabilir** testler geliştirmeye çalışıyorum.  
+- Sistemleri yalnızca test etmek değil, **davranışlarını anlamak** üzerine ilerliyorum.  
+- Paralelde **C# / .NET** ekosisteminde backend ve API geliştirme konularında kendimi geliştiriyorum; öğrendiklerimi küçük projelerde deniyorum.
 
 ---
 
-## 🧪 Focus
+## Tech Stack
 
-<p align="center">
-UI Test Automation • BDD • API Testing • Clean Test Design
+<p>
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TestNG-E33332?style=flat-square" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/API%20Testing-6DB33F?style=flat-square" alt="API Testing"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-## 📊 GitHub
+## What I Focus On
+
+- UI test otomasyonu (**Playwright** & **Selenium**)  
+- **BDD** yaklaşımı ile test senaryoları  
+- Testlerin sürdürülebilirliği ve okunabilirliği  
+- Temel **API** testleri  
+- **ASP.NET Core** & **EF Core** ile katmanlı API / veri erişimi (öğrenme & pratik)
+
+---
+
+## Featured project
+
+| Repo | Açıklama |
+|------|-----------|
+| [**BankManagementSystem**](https://github.com/ibrahimbkrr/BankManagementSystem) | .NET 8, EF Core ve katmanlı mimari ile öğrenme amaçlı banka yönetimi API iskeleti |
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimbkrr&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimbkrr&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimbkrr&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub istatistikleri"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimbkrr&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Diller"/>
 
 </div>
 
 ---
 
-## 📫 Contact
+## Contact
 
-<p align="center">
-  <a href="mailto:ibrahim.bakarr23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-bakar-369464238">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+  <a href="mailto:ibrahim.bakarr23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"/></a>
+  <a href="https://www.linkedin.com/in/ibrahim-bakar-369464238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ibrahimbkrr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profil"/></a>
 </p>
 
 ---
+
+<div align="center">
+
+*Küçük adımlar, net commit’ler.*
+
+<img src="https://komarev.com/ghpvc/?username=ibrahimbkrr&label=Profil%20görüntüleme&color=blueviolet&style=flat" alt="Profil görüntüleme"/>
+
+</div>
