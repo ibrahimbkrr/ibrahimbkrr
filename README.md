@@ -66,7 +66,6 @@
 <div align="center">
 
 <p>
-  <a href="https://github.com/ibrahimbkrr?tab=followers"><img src="https://img.shields.io/github/followers/ibrahimbkrr?style=for-the-badge&logo=github&label=Takipçi&color=181717" alt="GitHub takipçi"/></a>
   <a href="https://github.com/ibrahimbkrr?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fibrahimbkrr&query=%24.public_repos&label=Public%20repo&logo=github&logoColor=white&color=181717&labelColor=181717&style=for-the-badge" alt="Public repo sayısı"/></a>
   <a href="https://github.com/ibrahimbkrr/BankManagementSystem"><img src="https://img.shields.io/github/stars/ibrahimbkrr/BankManagementSystem?style=for-the-badge&logo=github&label=BankManagementSystem&color=512BD4" alt="BankManagementSystem yıldız"/></a>
 </p>
@@ -74,7 +73,6 @@
 </div>
 
 ### Projelerde kullandığım diller
-
 
 
 <p>
@@ -96,10 +94,4 @@
 
 ---
 
-<div align="center">
 
-*Küçük adımlar, net commit’ler.*
-
-<img src="https://komarev.com/ghpvc/?username=ibrahimbkrr&label=Profil%20görüntüleme&color=blueviolet&style=flat" alt="Profil görüntüleme"/>
-
-</div>
