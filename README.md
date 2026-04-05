@@ -53,13 +53,6 @@
 
 ---
 
-## Featured project
-
-| Repo | Açıklama |
-|------|-----------|
-| [**BankManagementSystem**](https://github.com/ibrahimbkrr/BankManagementSystem) | .NET 8, EF Core ve katmanlı mimari ile öğrenme amaçlı banka yönetimi API iskeleti |
-
----
 
 ## GitHub
 
