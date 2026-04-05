@@ -1,4 +1,4 @@
-<!-- GitHub profili: ibrahimbkrr/ibrahimbkrr public repo köküne bu README.md dosyasını koyun. -->
+
 
 <div align="center">
 
@@ -65,10 +65,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahimbkrr&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub istatistikleri"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimbkrr&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Diller"/>
+<p>
+  <a href="https://github.com/ibrahimbkrr?tab=followers"><img src="https://img.shields.io/github/followers/ibrahimbkrr?style=for-the-badge&logo=github&label=Takipçi&color=181717" alt="GitHub takipçi"/></a>
+  <a href="https://github.com/ibrahimbkrr?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fibrahimbkrr&query=%24.public_repos&label=Public%20repo&logo=github&logoColor=white&color=181717&labelColor=181717&style=for-the-badge" alt="Public repo sayısı"/></a>
+  <a href="https://github.com/ibrahimbkrr/BankManagementSystem"><img src="https://img.shields.io/github/stars/ibrahimbkrr/BankManagementSystem?style=for-the-badge&logo=github&label=BankManagementSystem&color=512BD4" alt="BankManagementSystem yıldız"/></a>
+</p>
 
 </div>
+
+### Projelerde kullandığım diller
+
+
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ---
 
