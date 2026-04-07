@@ -1,90 +1,71 @@
-
-
 <div align="center">
 
-# İbrahim Bakar
+# Ibrahim Bakar
 
-**Software Engineer**
+### Software Engineer
+
+Readable test automation, clean backend practice, and steady engineering growth.
 
 <p>
-  <a href="https://github.com/ibrahimbkrr"><img src="https://img.shields.io/badge/GitHub-ibrahimbkrr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/ibrahimbkrr">
+    <img src="https://img.shields.io/badge/GitHub-ibrahimbkrr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-bakar-369464238">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Bakar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ibrahim.bakarr23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-- Test otomasyonu üzerine odaklanıyorum; web uygulamaları için **sürdürülebilir ve okunabilir** testler geliştirmeye çalışıyorum.  
-- Sistemleri yalnızca test etmek değil, **davranışlarını anlamak** üzerine ilerliyorum.  
-- Paralelde **C# / .NET** ekosisteminde backend ve API geliştirme konularında kendimi geliştiriyorum; öğrendiklerimi küçük projelerde deniyorum.
+I focus on building maintainable and readable test automation solutions for web applications.
 
----
+My main interest is understanding how systems behave, not only testing outputs. Alongside automation, I am also improving myself in backend and API development with C# and .NET through hands-on projects.
+
+## What I’m Focused On
+
+- UI test automation with Playwright and Selenium
+- BDD-style test design with Cucumber
+- Sustainable and readable test architecture
+- API testing fundamentals
+- Backend development with ASP.NET Core and EF Core
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber"/>
-</p>
+**Test Automation**  
+`Playwright` `Selenium` `Cucumber` `TestNG`
 
-<p>
-  <img src="https://img.shields.io/badge/TestNG-E33332?style=flat-square" alt="TestNG"/>
-  <img src="https://img.shields.io/badge/API%20Testing-6DB33F?style=flat-square" alt="API Testing"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+**Languages**  
+`TypeScript` `Java` `C#` `JavaScript`
 
----
+**Backend / Data**  
+`.NET` `ASP.NET Core` `EF Core` `SQL Server`
 
-## What I Focus On
+**Tools**  
+`Git` `Postman` `GitHub Actions`
 
-- UI test otomasyonu (**Playwright** & **Selenium**)  
-- **BDD** yaklaşımı ile test senaryoları  
-- Testlerin sürdürülebilirliği ve okunabilirliği  
-- Temel **API** testleri  
-- **ASP.NET Core** & **EF Core** ile katmanlı API / veri erişimi (öğrenme & pratik)
+## Current Direction
 
----
+Right now I am working on:
+- building stronger Playwright + Cucumber frameworks
+- improving Page Object based automation design
+- practicing backend development with ASP.NET Core
+- strengthening API and database knowledge
 
+## Selected Projects
 
-## GitHub
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/ibrahimbkrr?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fibrahimbkrr&query=%24.public_repos&label=Public%20repo&logo=github&logoColor=white&color=181717&labelColor=181717&style=for-the-badge" alt="Public repo sayısı"/></a>
-  <a href="https://github.com/ibrahimbkrr/BankManagementSystem"><img src="https://img.shields.io/github/stars/ibrahimbkrr/BankManagementSystem?style=for-the-badge&logo=github&label=BankManagementSystem&color=512BD4" alt="BankManagementSystem yıldız"/></a>
-</p>
-
-</div>
-
-### Projelerde kullandığım diller
-
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
----
+- [playwright-ts-cucumber](https://github.com/ibrahimbkrr/playwright-ts-cucumber)
+- [BankManagementSystem](https://github.com/ibrahimbkrr/BankManagementSystem)
+- [All repositories](https://github.com/ibrahimbkrr?tab=repositories)
 
 ## Contact
 
-<p>
-  <a href="mailto:ibrahim.bakarr23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"/></a>
-  <a href="https://www.linkedin.com/in/ibrahim-bakar-369464238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ibrahimbkrr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profil"/></a>
-</p>
-
----
-
-
+- GitHub: [ibrahimbkrr](https://github.com/ibrahimbkrr)
+- LinkedIn: [ibrahim-bakar-369464238](https://www.linkedin.com/in/ibrahim-bakar-369464238)
+- Email: [ibrahim.bakarr23@gmail.com](mailto:ibrahim.bakarr23@gmail.com)
